@@ -19,7 +19,7 @@ section{
 @media(min-width:1024.1px){
     section>aside{
         grid-column: span 4;
-        background-color: brown;
+        background-color: rgb(64, 29, 109);
         /*padding: 1.5rem;
         margin-top: -3rem;*/
     }
@@ -61,7 +61,7 @@ article{
     padding: 0.5rem;
     font-style: italic;
     text-align: center;
-    background-color: brown;
+    background-color: rgb(71, 17, 17);
 }
 
 /*Footer*/
@@ -91,7 +91,7 @@ article{
 nav{
     position:fixed;
     width: 100%;
-    background-color: rgb(42, 165, 83);
+    background-color: rgb(252, 248, 17);
     padding: 0.5rem;
     font-size: 1.3rem;
 }
@@ -102,7 +102,7 @@ nav>ul>li {
 
 nav>ul>li>a {
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 ol>li>a{
@@ -220,7 +220,7 @@ aside>div>img{
 
     section>aside{
         grid-column: span 12;
-        background-color: rgb(251, 255, 30);
+        background-color: brown;
         /*padding: 1.5rem;
         margin-top: -3rem;*/
     }
